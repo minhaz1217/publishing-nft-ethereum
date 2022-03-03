@@ -1,0 +1,16 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Breed",
+        "value": "Maltipoo"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Mocha"
+      }
+    ],
+    "description": "The world's derpy Duck.",
+    "image": "https://ipfs.io/ipfs/QmdiLFhThz1KG9AD2kWjveJBpgnrugAxdyfDu5SvT6HFbM?filename=duck.gif",
+    "name": "Happy Duck"
+  }
+  
